@@ -25,6 +25,7 @@ We didn't want to stop here and we continue to search a way to have a better sco
 ## Who
 
 [Melvin Leroy](https://github.com/Melvin-Leroy), junior AI developer
+
 [Ebubekir Kocadag](https://github.com/EbubekirKocadag), junior AI developer
 
 ## Pending things to do
