@@ -132,3 +132,4 @@ dmypy.json
 
 #Own files
 .vscode
+.~lock.Presentation.odp#
